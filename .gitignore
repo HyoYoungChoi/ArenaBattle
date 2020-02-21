@@ -1,0 +1,8 @@
+/.vs
+/Binaries
+/Build
+/Intermediate
+/Saved
+/ArenaBattle.sln
+*.sln
+*_BuiltData.uasset
