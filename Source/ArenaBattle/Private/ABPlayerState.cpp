@@ -9,8 +9,10 @@ AABPlayerState::AABPlayerState()
 {
 	CharacterLevel = 1;
 	GameScore = 0;
+	GameHighScore = 0;
 	Exp = 0;
 	CharacterIndex = 0;
+	SaveSlotName = TEXT("Player1");
 }
 
 
